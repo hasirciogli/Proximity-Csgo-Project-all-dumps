@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="ProCrEncrypter.cpp" />
+    <ClCompile Include="output\include\encrypter\Encrypter.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="output\include\encrypter\Encrypter.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="LICENSE.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitattributes" />
+    <None Include=".gitignore" />
+    <None Include="README.md" />
+    <None Include="output\release\lib86\ProCr.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="output\release\lib86\ProCr.lib" />
+  </ItemGroup>
+</Project>

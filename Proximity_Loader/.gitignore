@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Debug/ImGui Lo.82212CF7.tlog
+/Debug
+/release
+/Release
+/Release/ImGui Lo.82212CF7.tlog
+/stupidfiles
